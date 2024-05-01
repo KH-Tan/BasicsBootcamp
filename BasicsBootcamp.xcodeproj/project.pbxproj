@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		76E04F0E2BE1FEFA00003A90 /* UsingViewBuider.swift in Sources */ = {isa = PBXBuildFile; fileRef = 76E04F0D2BE1FEFA00003A90 /* UsingViewBuider.swift */; };
 		9B03E3552B6A29C30012657B /* Structs9View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B03E3542B6A29C30012657B /* Structs9View.swift */; };
 		9B03E3582B6A2AA50012657B /* UI03ShapesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B03E3572B6A2AA50012657B /* UI03ShapesView.swift */; };
 		9B066B742B71BDEE00AC0D4B /* UI16GridsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B066B732B71BDEE00AC0D4B /* UI16GridsView.swift */; };
@@ -55,6 +56,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		76E04F0D2BE1FEFA00003A90 /* UsingViewBuider.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UsingViewBuider.swift; sourceTree = "<group>"; };
 		9B03E3542B6A29C30012657B /* Structs9View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Structs9View.swift; sourceTree = "<group>"; };
 		9B03E3572B6A2AA50012657B /* UI03ShapesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UI03ShapesView.swift; sourceTree = "<group>"; };
 		9B066B732B71BDEE00AC0D4B /* UI16GridsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UI16GridsView.swift; sourceTree = "<group>"; };
@@ -210,6 +212,7 @@
 				9BFCA5BC2BE11E5D00E8463B /* ViewExtensions.swift */,
 				9BFCA5C02BE129AC00E8463B /* ViewModifiers.swift */,
 				9BFCA5BE2BE1245C00E8463B /* UsingViewXViewM.swift */,
+				76E04F0D2BE1FEFA00003A90 /* UsingViewBuider.swift */,
 			);
 			path = Advanced;
 			sourceTree = "<group>";
@@ -308,6 +311,7 @@
 				9BD672262B6C6F84009EB980 /* UI00IntroView.swift in Sources */,
 				9B16F8F52B692BF7001A5E41 /* Structs9.swift in Sources */,
 				9B0CD2AC2B708573009DC382 /* UI26AnimationsView.swift in Sources */,
+				76E04F0E2BE1FEFA00003A90 /* UsingViewBuider.swift in Sources */,
 				9B6EF7932BC52242007E0064 /* UI75ControlGroupView.swift in Sources */,
 				9B16F8E62B692AE3001A5E41 /* BasicsBootcampApp.swift in Sources */,
 				9B98B8B92BDF757600E5E83D /* UI33ActionSheetView.swift in Sources */,
