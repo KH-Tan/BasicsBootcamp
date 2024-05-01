@@ -11,6 +11,8 @@ struct UsingViewBuider: View {
     var body: some View {
         Text("Hello, ViewBuilder!")
         Text("Using View Builder")
+        
+        Text("Update to Using View Builder")
     }
 }
 
